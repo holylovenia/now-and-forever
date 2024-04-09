@@ -40,6 +40,13 @@ body {
     z-index: 1055 !important;
 }
 
+.btn-video {
+    position: fixed;
+    bottom: 15vh !important;
+    right: 2vh !important;
+    z-index: 1055 !important;
+}
+
 .loading-page {
     position: fixed;
     inset: 0 !important;
